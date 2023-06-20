@@ -1,0 +1,163 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.mr-2 {
+    margin-right: 20px;
+}
+
+.menu-icon {
+    min-height: 200px;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    background-color: #f0daa1;
+    /* background-image: url('../../asset//background/Background_1.png'); */
+}
+
+.sponsor-header img {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}
+
+.icon-text {
+    color: #03532E;
+}
+
+.item img {
+    margin: 20px;
+    border-radius: 10px;
+    border: 1px solid white;
+    overflow: hidden;
+}
+
+/* .item {
+    margin: 20px;
+    border-radius: 10px;
+    border: 2px solid white;
+    overflow: hidden;
+} */
+
+.icons-content {
+    margin-left: 40px;
+    margin-right: 40px;
+    cursor: pointer;
+}
+
+.text-menu-button {
+    margin-top: 5px;
+}
+
+.icon-img {
+    width: 80px;
+    height: 80px;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+.div-button {
+    text-align: center;
+    background-color: #f0daa1;
+}
+
+.btn-registration {
+    width: 370px;
+    height: 50px;
+    margin-top: -50px;
+    z-index: 100;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    align-items: center;
+    background-color: #03532E;
+    text-transform: uppercase;
+    /* line-height: normal !important; */
+}
+
+.text-register {
+    font-size: 24px;
+    letter-spacing: 1px;
+}
+
+.btn-login {
+    background-color: #E58306;
+    color: #fff;
+    margin-left: 2rem;
+    width: 140px;
+    height: 45px;
+    letter-spacing: 3px;
+}
+
+.btn-login:hover {
+    background-color: #ed9d35;
+    color: #fff;
+}
+
+.menu-winner {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 60px;
+    padding-top: 40px;
+    background-image: url('../../asset/background/Background_1.png');
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+}
+
+.title-winner {
+    color: #8dc440;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.menu-sponsor {
+    opacity: 1;
+    background-image: url('../../asset/background/Background_2.png');
+                    
+}
+
+.img-sponsor {
+    /* opacity: 0.7; */
+    /* background-image: url('../../asset/sponsor_paling_baru.jpg'); */
+}
+
+.menu-safari {
+    background-size: cover;
+    padding: 20px;
+    background-image: url('../../asset/background/Background_3.svg');
+}
+
+.content-icon-tsi {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.img-menu-logo_tsi {
+    width: 40px;
+    height: 40px;
+}
+
+.footer {
+    min-height: 200px;
+    padding: 20px;
+    background-color: #042;
+}
+
+.font_menu {
+    font-size: 14px;
+    font-family: gothammedium;
+    color: #fff;
+}
+
+.line_footer {
+    background-color: #fff;
+    height: 1px;
+}
+
+.footer_sub_2 {
+    font-family: gothamlight;
+    color: #fff;
+    font-size: 12px;
+}
